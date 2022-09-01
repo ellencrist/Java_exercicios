@@ -1,2 +1,2 @@
-# Java_exercicios_basicos
+# Java_exercicios
 Exercicíos de Java da Faculdade
