@@ -17,9 +17,9 @@ public class JavaApplication5
         Scanner input = new Scanner(system.in);
         input = new Scanner(system.in);
 
-        int num1;//primeiro número a somar;
-        int num2;//primeiro número a somar;
-        int soma;//soma de num1 e num2;
+        int num1; //primeiro número a somar;
+        int num2; //primeiro número a somar;
+        int soma; //soma de num1 e num2;
 
         System.out.println("Entre com o primeiro número: ");//prompt
         num1 = input.nextInt();//lê o primeiro número fornecido pelo usuário
