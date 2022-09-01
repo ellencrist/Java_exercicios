@@ -8,8 +8,8 @@ Repositório criado para armazenar os exercicíos de código feitos durante o 2�
 </ul>
 
 Ferramenta usada:
-
-![Netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<img src="https://th.bing.com/th/id/R.f348d40c8d60d9dd1c8ef9c654b02705?rik=vWlWz0rp8H2Meg&pid=ImgRaw&r=0g" width="30"/>
+<br>
+  ![Netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&logoColor=007ACC&labelColor=0D1117)&nbsp;
+  <img src="https://th.bing.com/th/id/R.f348d40c8d60d9dd1c8ef9c654b02705?rik=vWlWz0rp8H2Meg&pid=ImgRaw&r=0g" width="28"/>
 
 
