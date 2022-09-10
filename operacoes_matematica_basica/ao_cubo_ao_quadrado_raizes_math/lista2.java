@@ -1,10 +1,12 @@
 /******************************************************************************
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
+faça um programa que receba um número positivo e maior que zero,calcule e mostre
+o número digitado ao quadrado;
+o número digitado ao cubo;
+a raí quadrada
+a raíz cúbica
 
+ferramenta utilizada: GDB online debugger
 *******************************************************************************/
 import java.util.*;
 import java.lang.Math;
