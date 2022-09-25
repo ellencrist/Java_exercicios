@@ -5,8 +5,8 @@ Repositório criado para armazenar os exercicíos de código feitos durante o 2�
 <ul>Conteúdos:
   <li>operações lógicas</li>
   <li>operações aritméticas</li>
-  <li>matrizes<li>
-  <li>tabelas<li>
+  <li>matrizes</li>
+  <li>tabelas</li>
 </ul>
 
 Ferramenta usada:
