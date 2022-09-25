@@ -14,18 +14,32 @@ public class newJavaFile6 {
        resp=0;
       
        switch(diaSemana){
-           case 1 -> System.out.println("Domingo");
-           case 2 -> System.out.println("Segunda");
-           case 3 -> System.out.println("Terça");
-           case 4 -> System.out.println("Quarta");
-           case 5 -> System.out.println("Quinta");
-           case 6 -> System.out.println("Sexta");
-           case 7 -> System.out.println("Sabádo");
-           default -> System.out.println("Número inválido fornecido, use números de 1 até 7");
+           case 1:
+               System.out.println("Domingo");
+               break;
+           case 2:
+               System.out.println("Segunda");
+               break;
+           case 3:
+               System.out.println("Terça");
+               break;
+           case 4:
+               System.out.println("Quarta");
+               break;
+           case 5:
+               System.out.println("Quinta");
+               break;
+           case 6:    
+                System.out.println("Sexta");
+                break;
+           case 7:
+               System.out.println("Sabádo");
+               break;
+           default:
+               System.out.println("Número inválido fornecido, use números de 1 até 7");
+               break;
        }
        
         resp=imput.nextInt();
         }while(resp!=0);
         imput.close();
-    }
-}
