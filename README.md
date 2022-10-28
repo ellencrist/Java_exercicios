@@ -7,6 +7,7 @@ Repositório criado para armazenar os exercicíos de código feitos durante o 2�
   <li>operações aritméticas</li>
   <li>matrizes</li>
   <li>tabelas</li>
+  <li>listas</li>
 </ul>
 
 Ferramenta usada:
